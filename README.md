@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Machine Learning,Deep Learning and Neural Networking**
 
+- 👍 Willing to collaborate on **Machine Learning and Website Development** projects
+
 - 📫 How to reach me **akash.kamalesh03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
