@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Image processing and restoration, becoming a MERN stack developer and a Deep Learning specialist**
 
-- 🌱 I’m currently learning **React,Image processing, GANs using PyTorch and various machine learning algorithms and models**
+- 🌱 I’m currently learning **skill building with sequence models**
 
-- 💬 Ask me about **Machine Learning,Deep Learning and Neural Networking**
+- 💬 Ask me about **Machine Learning,Deep Learning and the web**
 
 - 👍 Willing to collaborate on **Machine Learning and Website Development** projects
 
