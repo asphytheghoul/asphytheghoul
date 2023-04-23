@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asphytheghoul" alt="asphytheghoul" /></a> </p>
 
-- 🔭 I’m currently working on **Image processing and restoration, becoming a MERN stack developer and a Deep Learning specialist**
+- 🔭 I’m currently working on **Image processing and restoration, becoming a full-fledged NEXT.js developer and a Deep Learning and Generative AI specialist**
 
-- 🌱 I’m currently learning **skill building with sequence models**
+- 💬 Ask me about **Machine Learning,Deep Learning, the web, basketball and anything that's on your mind :)**
 
-- 💬 Ask me about **Machine Learning,Deep Learning and the web**
-
-- 👍 Willing to collaborate on **Machine Learning and Website Development** projects
+- 👍 Willing to collaborate on **Genrative AI** projects
 
 - 📫 How to reach me **akash.kamalesh03@gmail.com**
 
