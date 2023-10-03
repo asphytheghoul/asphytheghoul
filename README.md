@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine Learning,Deep Learning, the web, basketball and anything that's on your mind :)**
 
-- 👍 Willing to collaborate on **Genrative AI** projects
+- 👍 Willing to collaborate on **Generative AI** projects
 
 - 📫 How to reach me **akash.kamalesh03@gmail.com**
 
